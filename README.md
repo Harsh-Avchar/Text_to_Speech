@@ -20,5 +20,5 @@ To run this script, you need the following:
  Clone this repository:
    git clone https://github.com/yourusername/your-repo-name.git
 
-Run the script:
+Run the script-
 python script_name.py
