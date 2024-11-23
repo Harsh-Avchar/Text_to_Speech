@@ -17,7 +17,7 @@ To run this script, you need the following:
 2. The `gTTS` library.
 
 ## Installation
- Clone this repository:
+ Clone this repository-
    git clone https://github.com/yourusername/your-repo-name.git
 
 Run the script-
